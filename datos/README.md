@@ -1,22 +1,17 @@
-# Datos
+[← Inicio](../README.md)
 
-Las plantillas de `excel/` usan una **población ficticia** para que el procedimiento se pueda seguir sin depender de descargas. Para los talleres y el proyecto final se usan datos oficiales.
+# Fuentes de datos
 
-## Fuentes recomendadas
-
-| Fuente | Qué contiene | Dónde |
+| Fuente | Qué contiene | Sesiones |
 |---|---|---|
-| DANE – Proyecciones de población (base CNPV 2018) | Población por sexo y edad, nacional, departamental y municipal | dane.gov.co → Estadísticas por tema → Demografía y población → Proyecciones de población |
-| DANE – CNPV 2018 | Población censada por edad simple, sexo, autorreconocimiento étnico | dane.gov.co → Censo Nacional de Población y Vivienda 2018 |
-| DANE – Estadísticas vitales | Nacimientos por edad de la madre; defunciones por edad y sexo | dane.gov.co → Salud → Nacimientos y defunciones |
-| Naciones Unidas – World Population Prospects | Series nacionales, supuestos y proyecciones probabilísticas | population.un.org/wpp |
-| CELADE – Estimaciones y proyecciones | Series regionales para América Latina | cepal.org |
+| DANE – Proyecciones de población (base CNPV 2018) | Población por sexo y edad, nacional, departamental y municipal | 1–5 |
+| DANE – Censo Nacional de Población y Vivienda 2018 | Población, hogares, autorreconocimiento étnico | 1–5 |
+| DANE – Estadísticas vitales | Nacimientos y defunciones | 1, 2 |
+| DANE – Censo Nacional Agropecuario 2014 | Unidades productoras, productores, hogares rurales | 4 |
+| Registro Único de Víctimas (Unidad para las Víctimas) | Personas desplazadas por año y municipio | 5 |
+| Naciones Unidas – World Population Prospects | Series nacionales y proyecciones probabilísticas | 1, 2 |
 
-## Convenciones
-
-- Guardar los archivos descargados sin modificar en `datos/originales/` y las versiones limpias en `datos/procesados/`.
-- Grupos quinquenales: 0–4, 5–9, …, 80–84, 85+.
-- Registrar en este archivo la fecha de descarga y la versión de cada fuente.
+Los enlaces a cada fuente se agregarán a medida que se preparen los talleres.
 
 ## Registro de descargas
 

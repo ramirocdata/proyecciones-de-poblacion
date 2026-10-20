@@ -1,45 +1,44 @@
 # Proyecciones de Población
 
-Materiales del curso de posgrado **Proyecciones de Población**: programa, guías por sesión, plantillas de Excel con el procedimiento paso a paso y extensiones opcionales en Python.
+Curso de posgrado con enfoque práctico: **5 sesiones de 4 horas**. Del tiempo cósmico, geológico y cultural al tiempo demográfico, y de allí a cuatro problemas aplicados en Colombia.
 
-## Enfoque
+## Contenidos
 
-Cada método se trabaja primero en **Excel**, de modo que el proceso de cálculo quede visible columna por columna. Python aparece después como forma de automatizar y escalar el mismo procedimiento.
+- [Programa del curso](programa.md)
+- [Eje transversal: hogares y familias](eje-transversal/hogares-familias.md)
+- [Bibliografía](bibliografia.md)
+- [Fuentes de datos](datos/README.md)
 
-Convención de colores en las plantillas:
+## Sesiones
 
-| Color | Significado |
-|---|---|
-| Texto azul / fondo amarillo claro | Dato de entrada o supuesto (se puede cambiar) |
-| Texto negro | Fórmula (no sobrescribir) |
-| Fondo verde claro | Resultado clave |
+| # | Sesión | Lecturas |
+|---|---|---|
+| 1 | [El tiempo y el tiempo demográfico](sesiones/01-tiempo/README.md) | [ver](bibliografia.md#s1) |
+| 2 | [Envejecimiento y reforma pensional](sesiones/02-pensiones/README.md) | [ver](bibliografia.md#s2) |
+| 3 | [Dinámica poblacional y educación](sesiones/03-educacion/README.md) | [ver](bibliografia.md#s3) |
+| 4 | [Población rural y sector agropecuario](sesiones/04-agropecuario/README.md) | [ver](bibliografia.md#s4) |
+| 5 | [Urbanización, migración y desplazamiento forzado](sesiones/05-urbanizacion-migracion/README.md) | [ver](bibliografia.md#s5) |
 
-## Estructura
+## Estructura del repositorio
 
 ```
 proyecciones-poblacion/
-├── README.md              ← este archivo
-├── programa.md            ← programa completo (16 semanas)
+├── README.md
+├── programa.md
 ├── bibliografia.md
-├── sesiones/              ← una carpeta por semana con objetivos, taller y lectura
-│   ├── 01-introduccion/
-│   ├── ...
-│   └── 16-proyectos-finales/
-├── excel/                 ← plantillas de trabajo
-│   ├── 04_crecimiento.xlsx
-│   ├── 06_tabla_de_vida.xlsx
-│   └── 11_cohortes_componentes.xlsx
-├── python/                ← extensiones opcionales
-├── datos/                 ← fuentes y guía de descarga
-└── evaluacion/            ← guía y rúbrica del proyecto final
+├── eje-transversal/
+│   └── hogares-familias.md
+├── sesiones/
+│   ├── 01-tiempo/
+│   ├── 02-pensiones/
+│   ├── 03-educacion/
+│   ├── 04-agropecuario/
+│   └── 05-urbanizacion-migracion/
+├── datos/
+│   └── README.md
+└── LICENSE.md
 ```
-
-## Cómo usar este repositorio
-
-**Estudiantes:** descarguen el repositorio (botón verde *Code → Download ZIP*) o clónenlo. Abran la plantilla de la sesión, guarden una copia con su nombre y trabajen sobre ella.
-
-**Datos:** las plantillas traen una **población ficticia** con fines didácticos. En los talleres se reemplaza por datos del DANE (ver `datos/README.md`).
 
 ## Licencia
 
-Contenidos bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es); código bajo licencia MIT. Ver `LICENSE.md`.
+Contenidos bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es). Ver [LICENSE.md](LICENSE.md).
