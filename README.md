@@ -22,7 +22,7 @@ Curso de posgrado con enfoque práctico: **5 sesiones de 4 horas**. Del tiempo c
 ## Estructura del repositorio
 
 ```
-proyecciones-poblacion/
+proyecciones-de-poblacion/
 ├── README.md
 ├── programa.md
 ├── bibliografia.md
