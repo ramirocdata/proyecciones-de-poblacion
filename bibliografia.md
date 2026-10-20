@@ -71,7 +71,10 @@ Organizada por sesión. La columna **Enlace** se completa con el PDF, DOI o pág
 
 | Referencia | Enlace |
 |---|---|
-| **Lectura clave.** Arias-Rodríguez, F. y Parra-Polanía, J. A. (2021). *Pensiones y reforma pensional: efectos macroeconómicos del envejecimiento en Colombia*. Borradores de Economía, 1173. Bogotá: Banco de la República. | [Página](https://www.banrep.gov.co/es/borrador-1173) · [PDF](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10117/be_1173.pdf) |
+| **Lectura clave.** Vincent, S. (2021). Planning for Old Age in Peru: Count on Kin or Court the State? *Anthropology & Aging*, 42(2), 52–67. Etnografía en una comunidad campesina andina sobre cómo las familias deciden entre el apoyo de los hijos y la pensión no contributiva (Pensión 65). En inglés, acceso abierto. | [Artículo](https://anthro-age.pitt.edu/ojs/anthro-age/article/view/330) · [DOI](https://doi.org/10.5195/aa.2021.330) |
+| Sagner, A. y Mtati, R. Z. (1999). Politics of pension sharing in urban South Africa. *Ageing and Society*, 19(4), 393–416. Etnografía sobre cómo las personas mayores reparten su pensión dentro del hogar. Opcional. | [PDF](https://epub.ub.uni-muenchen.de/15931/1/politics_of_pension.pdf) |
+| Castelblanco Gracia, E. A., Díaz Gamboa, L. B. y Sánchez Riaño, F. (2024). El coronel aún no tiene quien le escriba: del derecho humano a envejecer con dignidad y su realidad en Colombia. *Tabula Rasa*, 50, 177–199. Opcional. | [PDF](https://www.redalyc.org/journal/396/39680026008/39680026008.pdf) |
+| Arias-Rodríguez, F. y Parra-Polanía, J. A. (2021). *Pensiones y reforma pensional: efectos macroeconómicos del envejecimiento en Colombia*. Borradores de Economía, 1173. Bogotá: Banco de la República. Opcional (enfoque económico). | [Página](https://www.banrep.gov.co/es/borrador-1173) · [PDF](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10117/be_1173.pdf) |
 | Congreso de la República de Colombia (2024). Ley 2381 de 2024, por la cual se establece el Sistema de Protección Social Integral para la Vejez, Invalidez y Muerte de origen común. Opcional. | _por agregar_ |
 | Lee, R. y Mason, A. (eds.) (2011). *Population Aging and the Generational Economy: A Global Perspective*. Cheltenham: Edward Elgar. Opcional. | _por agregar_ |
 

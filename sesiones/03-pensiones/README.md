@@ -24,6 +24,7 @@
 
 - Ley 2381 de 2024: contenido general
 - Supuestos demográficos de la reforma
+- La vejez entre la familia y el Estado: pensiones, parentesco y reciprocidad (Vincent, 2021)
 
 ### Ejercicio práctico con datos de la Superintendencia Financiera
 
