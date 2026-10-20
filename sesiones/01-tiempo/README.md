@@ -16,10 +16,24 @@
 
 ### Tiempos múltiples
 
-- Tiempo cósmico
-- Tiempo geológico
-- Tiempo cultural: cíclico, lineal, ecológico y estructural
-- La escala humana dentro de esas escalas
+**El infinito y el tiempo cósmico**
+- El infinito potencial y el actual: del *apeiron* griego a Cantor (Ortiz, 1994).
+- El big bang, la flecha del tiempo y el tiempo relativo (Hawking).
+
+**Tiempo geológico: los foraminíferos como reloj**
+- Los foraminíferos son organismos unicelulares marinos con concha, sobre todo de carbonato de calcio. Al morir se acumulan en los sedimentos del fondo del mar, capa sobre capa.
+- *Bioestratigrafía:* cada especie aparece y se extingue en un momento datable. Por eso las asociaciones de especies sirven para fechar las capas.
+- *Paleoclima:* la composición isotópica del oxígeno de sus conchas registra la temperatura y el volumen de hielo. Con ella se reconstruyen los ciclos glaciales de los últimos millones de años.
+- *Puente con la demografía:* el tiempo geológico se lee a partir de **poblaciones** de organismos (cuántos hay, de qué especies, en qué capa). Funciona como un registro estratificado, análogo a los censos sucesivos.
+
+**Antropología del tiempo**
+- El tiempo ecológico y el estructural entre los Nuer (Evans-Pritchard).
+- El tiempo como construcción social y como instrumento de orientación (Elias).
+- Los mapas temporales (Gell) y la temporalidad del paisaje (Ingold).
+- La negación de la contemporaneidad del "otro" (Fabian).
+
+**La escala humana dentro de esas escalas**
+- La vida humana, la generación y la cohorte frente a los tiempos cósmico y geológico.
 
 ### El tiempo en demografía
 
