@@ -1,23 +1,23 @@
 # Proyecciones de Población
 
-Curso de posgrado con enfoque práctico: **5 sesiones de 4 horas**. Del tiempo cósmico, geológico y cultural al tiempo demográfico, y de allí a cuatro problemas aplicados en Colombia.
+Curso de posgrado presencial con enfoque práctico: **5 sesiones de 4 horas**. Parte del tiempo como perspectiva de análisis y aplica las proyecciones de población a los territorios rurales, la seguridad social, los hogares y la vivienda, y las movilidades.
 
 ## Contenidos
 
 - [Programa del curso](programa.md)
-- [Eje transversal: hogares y familias](eje-transversal/hogares-familias.md)
 - [Bibliografía](bibliografia.md)
+- [Trabajo transversal: proyecciones demográficas](trabajo-transversal/proyecciones.md)
 - [Fuentes de datos](datos/README.md)
 
 ## Sesiones
 
-| # | Sesión | Lecturas |
+| Sesión | Tema | Lecturas |
 |---|---|---|
-| 1 | [El tiempo y el tiempo demográfico](sesiones/01-tiempo/README.md) | [ver](bibliografia.md#s1) |
-| 2 | [La población y los territorios rurales](sesiones/02-territorios-rurales/README.md) | [ver](bibliografia.md#s2) |
-| 3 | [El cambio poblacional en el sistema de seguridad social. El caso de la reforma pensional](sesiones/03-pensiones/README.md) | [ver](bibliografia.md#s3) |
-| 4 | [Dinámica poblacional y educación](sesiones/04-educacion/README.md) | [ver](bibliografia.md#s4) |
-| 5 | [Urbanización, migración y desplazamiento forzado](sesiones/05-urbanizacion-migracion/README.md) | [ver](bibliografia.md#s5) |
+| I | [Introducción al curso](sesiones/01-introduccion/README.md) | [ver](bibliografia.md#s1) |
+| II | [La población y los territorios rurales](sesiones/02-territorios-rurales/README.md) | [ver](bibliografia.md#s2) |
+| III | [El cambio poblacional en el sistema de seguridad social. El caso de la reforma pensional](sesiones/03-pensiones/README.md) | [ver](bibliografia.md#s3) |
+| IV | [Los hogares como unidad de demanda y apoyo](sesiones/04-hogares-vivienda/README.md) | [ver](bibliografia.md#s4) |
+| V | [Movilidades y desarrollo](sesiones/05-movilidades/README.md) | [ver](bibliografia.md#s5) |
 
 ## Estructura del repositorio
 
@@ -26,14 +26,14 @@ proyecciones-de-poblacion/
 ├── README.md
 ├── programa.md
 ├── bibliografia.md
-├── eje-transversal/
-│   └── hogares-familias.md
+├── trabajo-transversal/
+│   └── proyecciones.md
 ├── sesiones/
-│   ├── 01-tiempo/
+│   ├── 01-introduccion/
 │   ├── 02-territorios-rurales/
 │   ├── 03-pensiones/
-│   ├── 04-educacion/
-│   └── 05-urbanizacion-migracion/
+│   ├── 04-hogares-vivienda/
+│   └── 05-movilidades/
 ├── datos/
 │   └── README.md
 └── LICENSE.md

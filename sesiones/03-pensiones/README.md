@@ -1,8 +1,6 @@
-[← Inicio](../../README.md) · [← Sesión 2](../02-territorios-rurales/README.md) · [Sesión 4 →](../04-educacion/README.md)
+[← Inicio](../../README.md) · [← Sesión II](../02-territorios-rurales/README.md) · [Sesión IV →](../04-hogares-vivienda/README.md)
 
-# Sesión 3. El cambio poblacional en el sistema de seguridad social. El caso de la reforma pensional
-
-**Propósito:** Analizar cómo el envejecimiento de la población presiona el sistema pensional y qué supuestos demográficos están detrás de la reforma.
+# Sesión III. El cambio poblacional en el sistema de seguridad social. El caso de la reforma pensional
 
 ## Agenda (4 horas)
 
@@ -14,42 +12,28 @@
 
 ## Contenidos
 
-### Cambio poblacional y seguridad social
+1. Cambio poblacional y seguridad social
+   - Envejecimiento demográfico y razones de dependencia
+   - Régimen de prima media y régimen de ahorro individual
+2. La reforma pensional (Ley 2381 de 2024)
+3. Ejercicio práctico con datos de la Superintendencia Financiera
+   - [Afiliados a fondos de pensiones obligatorias](https://www.superfinanciera.gov.co/publicaciones/9110/informes-y-cifrascifraspensiones-cesantias-y-fiduciariasinformacion-por-sector-pensiones-y-cesantiasregimen-de-ahorro-individual-con-solidaridad-fondos-de-pensiones-obligatoriasafiliados-9110/)
 
-- Envejecimiento demográfico y razones de dependencia
-- Esperanza de vida a los 65 años
-- Régimen de prima media y régimen de ahorro individual
+## Lecturas opcionales
 
-### La reforma pensional
+Sagner, A. y Mtati, R. Z. (1999). Politics of pension sharing in urban South Africa. *Ageing and Society, 19*(4), 393–416. [PDF](https://epub.ub.uni-muenchen.de/15931/1/politics_of_pension.pdf)
 
-- Ley 2381 de 2024: contenido general
-- Supuestos demográficos de la reforma
-- La vejez entre la familia y el Estado: pensiones, parentesco y reciprocidad (Vincent, 2021)
+Castelblanco Gracia, E. A., Díaz Gamboa, L. B. y Sánchez Riaño, F. (2024). El coronel aún no tiene quien le escriba: del derecho humano a envejecer con dignidad y su realidad en Colombia. *Tabula Rasa*, (50), 177–199. [PDF](https://www.redalyc.org/journal/396/39680026008/39680026008.pdf)
 
-### Ejercicio práctico con datos de la Superintendencia Financiera
+Lecturas complementarias: ver [bibliografía](../../bibliografia.md#s3).
 
-- [Afiliados a fondos de pensiones obligatorias](https://www.superfinanciera.gov.co/publicaciones/9110/informes-y-cifrascifraspensiones-cesantias-y-fiduciariasinformacion-por-sector-pensiones-y-cesantiasregimen-de-ahorro-individual-con-solidaridad-fondos-de-pensiones-obligatoriasafiliados-9110/) por edad y sexo
-- Relación entre afiliados, cotizantes y pensionados
-
-## Eje transversal: hogares y familias
-
-Hogares unipersonales de personas mayores y transferencias intergeneracionales dentro de la familia.
-
-Ver [eje transversal](../../eje-transversal/hogares-familias.md#s3).
-
-## Taller
-
-Ejercicio práctico con las cifras de afiliados de la Superintendencia Financiera.
-
-## Lecturas
-
-Ver [bibliografía de la sesión 3](../../bibliografia.md#s3).
-
-## Materiales
+## Materiales y datos
 
 | Material | Enlace |
 |---|---|
 | Presentación | _por agregar_ |
-| Guía del taller | _por agregar_ |
+| Guía del ejercicio | _por agregar_ |
 | Datos: Superintendencia Financiera: afiliados a fondos de pensiones obligatorias | [enlace](https://www.superfinanciera.gov.co/publicaciones/9110/informes-y-cifrascifraspensiones-cesantias-y-fiduciariasinformacion-por-sector-pensiones-y-cesantiasregimen-de-ahorro-individual-con-solidaridad-fondos-de-pensiones-obligatoriasafiliados-9110/) |
 | Otras fuentes | [datos](../../datos/README.md) |
+
+Trabajo transversal del curso: [proyecciones demográficas](../../trabajo-transversal/proyecciones.md).

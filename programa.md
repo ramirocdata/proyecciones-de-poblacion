@@ -2,13 +2,7 @@
 
 # Programa del curso: Proyecciones de Población
 
-**Nivel:** posgrado · **Duración:** 5 sesiones de 4 horas (20 horas)
-
-## Descripción
-
-Curso de proyecciones de población con enfoque práctico. Parte de una reflexión sobre el tiempo (cósmico, geológico y cultural) para llegar al tiempo demográfico (calendario, edad y cohorte). Desde allí se trabajan cuatro escenarios aplicados en Colombia: territorios rurales, seguridad social y reforma pensional, educación, y urbanización, migración y desplazamiento forzado.
-
-El análisis de **hogares y familias** atraviesa todas las sesiones ([eje transversal](eje-transversal/hogares-familias.md)).
+**Nivel:** posgrado · **Modalidad:** presencial · **Duración:** 5 sesiones de 4 horas (20 horas)
 
 ## Estructura de cada sesión
 
@@ -18,15 +12,57 @@ El análisis de **hogares y familias** atraviesa todas las sesiones ([eje transv
 | Taller práctico | 2 h |
 | Discusión del caso y lecturas | 1 h |
 
-## Sesiones
+## [Sesión I. Introducción al curso](sesiones/01-introduccion/README.md)
 
-| # | Sesión | Eje hogares y familias | Lecturas |
-|---|---|---|---|
-| 1 | [El tiempo y el tiempo demográfico](sesiones/01-tiempo/README.md) | El ciclo de vida familiar como tiempo social: formación, expansión, dispersión y disolución del hogar. | [ver](bibliografia.md#s1) |
-| 2 | [La población y los territorios rurales](sesiones/02-territorios-rurales/README.md) | El ciclo de desarrollo de la unidad doméstica campesina (Chayanov) y la mano de obra familiar. | [ver](bibliografia.md#s2) |
-| 3 | [El cambio poblacional en el sistema de seguridad social. El caso de la reforma pensional](sesiones/03-pensiones/README.md) | Hogares unipersonales de personas mayores y transferencias intergeneracionales dentro de la familia. | [ver](bibliografia.md#s3) |
-| 4 | [Dinámica poblacional y educación](sesiones/04-educacion/README.md) | Tamaño del hogar, clima educativo y número de hijos en edad escolar por hogar. | [ver](bibliografia.md#s4) |
-| 5 | [Urbanización, migración y desplazamiento forzado](sesiones/05-urbanizacion-migracion/README.md) | Recomposición de hogares desplazados, hogares extensos y redes familiares de llegada. | [ver](bibliografia.md#s5) |
+1. Sobre el infinito. El tiempo como perspectiva de análisis
+   - El infinito potencial y el actual (Ortiz, 1994); el universo abstracto (Sabato, 1951)
+   - Tiempo cósmico, tiempo geológico (los foraminíferos como reloj) y tiempo cultural
+   - Calendario, edad y cohorte: el diagrama de Lexis
+2. El concepto de población
+3. Las fuentes de información en el tiempo
+4. Análisis sociodemográfico, tipología de los hogares
+5. Unidades de observación: familias, viviendas, hogares y personas
+6. Presentación de las proyecciones
+7. Ejercicio en clase: relación urbano-rural con proyecciones; trayectorias de vida, trayectorias históricas
+8. Marco Geoestadístico Nacional
+
+Lecturas: [ver](bibliografia.md#s1)
+
+## [Sesión II. La población y los territorios rurales](sesiones/02-territorios-rurales/README.md)
+
+1. Las encuestas agropecuarias y el Censo Nacional Agropecuario
+2. Ejercicio práctico con el CNA
+   - [Censo Nacional Agropecuario 2014](https://www.dane.gov.co/index.php/estadisticas-por-tema/agropecuario/censo-nacional-agropecuario-2014)
+
+Lecturas: [ver](bibliografia.md#s2)
+
+## [Sesión III. El cambio poblacional en el sistema de seguridad social. El caso de la reforma pensional](sesiones/03-pensiones/README.md)
+
+1. Cambio poblacional y seguridad social
+   - Envejecimiento demográfico y razones de dependencia
+   - Régimen de prima media y régimen de ahorro individual
+2. La reforma pensional (Ley 2381 de 2024)
+3. Ejercicio práctico con datos de la Superintendencia Financiera
+   - [Afiliados a fondos de pensiones obligatorias](https://www.superfinanciera.gov.co/publicaciones/9110/informes-y-cifrascifraspensiones-cesantias-y-fiduciariasinformacion-por-sector-pensiones-y-cesantiasregimen-de-ahorro-individual-con-solidaridad-fondos-de-pensiones-obligatoriasafiliados-9110/)
+
+Lecturas: [ver](bibliografia.md#s3)
+
+## [Sesión IV. Los hogares como unidad de demanda y apoyo](sesiones/04-hogares-vivienda/README.md)
+
+1. Los hogares como unidad de demanda y apoyo
+2. Aplicación al caso de la vivienda: proyecciones de hogares
+
+Lecturas: [ver](bibliografia.md#s4)
+
+## [Sesión V. Movilidades y desarrollo](sesiones/05-movilidades/README.md)
+
+1. Movilidades y desplazamiento forzado
+2. Procesos de urbanización
+3. Procesos de densificación y metropolización
+
+Lecturas: [ver](bibliografia.md#s5)
+
+## [Trabajo transversal: Proyecciones demográficas de población: teoría y prácticas](trabajo-transversal/proyecciones.md)
 
 ## Evaluación
 
