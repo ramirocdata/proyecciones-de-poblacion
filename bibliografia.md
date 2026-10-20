@@ -10,12 +10,14 @@ Organizada por sesión. La columna **Enlace** se completa con el PDF, DOI o pág
 
 ## Sesión 1. El tiempo y el tiempo demográfico
 
+> **Todas las lecturas de esta sesión son opcionales.** Sirven para profundizar en los temas tratados en clase.
+
 ### El infinito y el tiempo cósmico
 
 | Referencia | Enlace |
 |---|---|
 | Ortiz, J. R. (1994). El concepto de infinito. *Boletín de la Asociación Matemática Venezolana*, 1(2), 59–81. | [PDF](https://emis.univie.ac.at/journals/BAMV/conten/vol01/vol1n2p59-81.pdf) |
-| Hawking, S. y Mlodinow, L. (2005). *Brevísima historia del tiempo*. Barcelona: Crítica. **Lectura base recomendada.** | _por agregar_ |
+| Hawking, S. y Mlodinow, L. (2005). *Brevísima historia del tiempo*. Barcelona: Crítica. | _por agregar_ |
 | Hawking, S. (1988). *Historia del tiempo: del big bang a los agujeros negros*. Barcelona: Crítica. | _por agregar_ |
 | Hawking, S. (2002). *El universo en una cáscara de nuez*. Barcelona: Crítica. Capítulo 2: "La forma del tiempo". | _por agregar_ |
 | Rovelli, C. (2018). *El orden del tiempo*. Barcelona: Anagrama. | _por agregar_ |

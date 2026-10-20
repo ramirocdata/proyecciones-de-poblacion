@@ -61,7 +61,7 @@ Construcción de un diagrama de Lexis y ubicación de eventos de una cohorte.
 
 ## Lecturas
 
-Ver [bibliografía de la sesión 1](../../bibliografia.md#s1).
+Todas las lecturas son **opcionales**. Ver [bibliografía de la sesión 1](../../bibliografia.md#s1).
 
 ## Materiales
 
