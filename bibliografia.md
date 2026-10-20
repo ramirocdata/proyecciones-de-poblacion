@@ -60,6 +60,7 @@ Organizada por sesión. La columna **Enlace** se completa con el PDF, DOI o pág
 | Referencia | Enlace |
 |---|---|
 | **Lectura clave.** DANE (2016). *3er Censo Nacional Agropecuario. Tomo 2: Resultados*. Bogotá: DANE. | [PDF](https://www.dane.gov.co/files/images/foros/foro-de-entrega-de-resultados-y-cierre-3-censo-nacional-agropecuario/CNATomo2-Resultados.pdf) |
+| **Lectura clave.** Saade Granados, M. (ed.) (2018). *Elementos para la conceptualización de lo campesino en Colombia. Documento técnico*. Bogotá: Instituto Colombiano de Antropología e Historia (ICANH). Con comentarios de D. Meertens, A. M. Lara Sallenave, D. Fajardo Montaña, J. Camacho Segura y N. Robledo Escobar. | [PDF](https://publicaciones.icanh.gov.co/index.php/picanh/catalog/download/33/311/3172?inline=1) |
 | Chayanov, A. V. (1974 [1925]). *La organización de la unidad económica campesina*. Buenos Aires: Nueva Visión. Opcional. | _por agregar_ |
 
 [Ir a la sesión](sesiones/02-territorios-rurales/README.md)

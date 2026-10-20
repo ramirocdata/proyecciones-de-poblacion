@@ -16,6 +16,7 @@
 
 ### 1. Las encuestas agropecuarias y el Censo Nacional Agropecuario
 
+- ¿Quién es campesino? Las dimensiones de lo campesino y su medición censal (Saade, 2018)
 - La Encuesta Nacional Agropecuaria (ENA) y el Censo Nacional Agropecuario (CNA) 2014: qué miden y en qué se diferencian
 - Unidades de observación: unidades productoras agropecuarias, productores residentes y hogares del área rural dispersa
 - Los territorios de grupos étnicos en el CNA
