@@ -14,27 +14,27 @@ El ciclo de vida familiar como tiempo social: formación, expansión, dispersió
 
 <a id="s2"></a>
 
-## Sesión 2. Envejecimiento y reforma pensional
+## Sesión 2. La población y los territorios rurales
 
-Hogares unipersonales de personas mayores y transferencias intergeneracionales dentro de la familia.
+El ciclo de desarrollo de la unidad doméstica campesina (Chayanov) y la mano de obra familiar.
 
-[Ir a la sesión](../sesiones/02-pensiones/README.md)
+[Ir a la sesión](../sesiones/02-territorios-rurales/README.md)
 
 <a id="s3"></a>
 
-## Sesión 3. Dinámica poblacional y educación
+## Sesión 3. El cambio poblacional en el sistema de seguridad social. El caso de la reforma pensional
 
-Tamaño del hogar, clima educativo y número de hijos en edad escolar por hogar.
+Hogares unipersonales de personas mayores y transferencias intergeneracionales dentro de la familia.
 
-[Ir a la sesión](../sesiones/03-educacion/README.md)
+[Ir a la sesión](../sesiones/03-pensiones/README.md)
 
 <a id="s4"></a>
 
-## Sesión 4. Población rural y sector agropecuario
+## Sesión 4. Dinámica poblacional y educación
 
-El ciclo de desarrollo de la unidad doméstica campesina (Chayanov).
+Tamaño del hogar, clima educativo y número de hijos en edad escolar por hogar.
 
-[Ir a la sesión](../sesiones/04-agropecuario/README.md)
+[Ir a la sesión](../sesiones/04-educacion/README.md)
 
 <a id="s5"></a>
 

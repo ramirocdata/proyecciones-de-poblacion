@@ -1,4 +1,4 @@
-[← Inicio](../../README.md) · [← Sesión 4](../04-agropecuario/README.md)
+[← Inicio](../../README.md) · [← Sesión 4](../04-educacion/README.md)
 
 # Sesión 5. Urbanización, migración y desplazamiento forzado
 
@@ -45,4 +45,4 @@ Ver [bibliografía de la sesión 5](../../bibliografia.md#s5).
 |---|---|
 | Presentación | _por agregar_ |
 | Guía del taller | _por agregar_ |
-| Datos | [fuentes](../../datos/README.md) |
+| Otras fuentes | [datos](../../datos/README.md) |

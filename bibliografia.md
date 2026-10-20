@@ -55,35 +55,36 @@ Organizada por sesión. La columna **Enlace** se completa con el PDF, DOI o pág
 
 <a id="s2"></a>
 
-## Sesión 2. Envejecimiento y reforma pensional
+## Sesión 2. La población y los territorios rurales
 
 | Referencia | Enlace |
 |---|---|
-| Lee, R. y Mason, A. (eds.) (2011). *Population Aging and the Generational Economy: A Global Perspective*. Cheltenham: Edward Elgar. | _por agregar_ |
-| Congreso de la República de Colombia (2024). Ley 2381 de 2024, por la cual se establece el Sistema de Protección Social Integral para la Vejez, Invalidez y Muerte de origen común. | _por agregar_ |
+| **Lectura clave.** DANE (2016). *3er Censo Nacional Agropecuario. Tomo 2: Resultados*. Bogotá: DANE. | [PDF](https://www.dane.gov.co/files/images/foros/foro-de-entrega-de-resultados-y-cierre-3-censo-nacional-agropecuario/CNATomo2-Resultados.pdf) |
+| Chayanov, A. V. (1974 [1925]). *La organización de la unidad económica campesina*. Buenos Aires: Nueva Visión. Opcional. | _por agregar_ |
 
-[Ir a la sesión](sesiones/02-pensiones/README.md)
+[Ir a la sesión](sesiones/02-territorios-rurales/README.md)
 
 <a id="s3"></a>
 
-## Sesión 3. Dinámica poblacional y educación
+## Sesión 3. El cambio poblacional en el sistema de seguridad social. El caso de la reforma pensional
+
+| Referencia | Enlace |
+|---|---|
+| **Lectura clave.** Arias-Rodríguez, F. y Parra-Polanía, J. A. (2021). *Pensiones y reforma pensional: efectos macroeconómicos del envejecimiento en Colombia*. Borradores de Economía, 1173. Bogotá: Banco de la República. | [Página](https://www.banrep.gov.co/es/borrador-1173) · [PDF](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10117/be_1173.pdf) |
+| Congreso de la República de Colombia (2024). Ley 2381 de 2024, por la cual se establece el Sistema de Protección Social Integral para la Vejez, Invalidez y Muerte de origen común. Opcional. | _por agregar_ |
+| Lee, R. y Mason, A. (eds.) (2011). *Population Aging and the Generational Economy: A Global Perspective*. Cheltenham: Edward Elgar. Opcional. | _por agregar_ |
+
+[Ir a la sesión](sesiones/03-pensiones/README.md)
+
+<a id="s4"></a>
+
+## Sesión 4. Dinámica poblacional y educación
 
 | Referencia | Enlace |
 |---|---|
 | Lutz, W., Butz, W. y KC, S. (eds.) (2014). *World Population and Human Capital in the Twenty-First Century*. Oxford: Oxford University Press. | _por agregar_ |
 
-[Ir a la sesión](sesiones/03-educacion/README.md)
-
-<a id="s4"></a>
-
-## Sesión 4. Población rural y sector agropecuario
-
-| Referencia | Enlace |
-|---|---|
-| Chayanov, A. V. (1974 [1925]). *La organización de la unidad económica campesina*. Buenos Aires: Nueva Visión. | _por agregar_ |
-| DANE (2016). *Censo Nacional Agropecuario 2014*. Bogotá: DANE. | _por agregar_ |
-
-[Ir a la sesión](sesiones/04-agropecuario/README.md)
+[Ir a la sesión](sesiones/04-educacion/README.md)
 
 <a id="s5"></a>
 

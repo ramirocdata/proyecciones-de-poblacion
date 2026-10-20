@@ -1,4 +1,4 @@
-[← Inicio](../../README.md) · [Sesión 2 →](../02-pensiones/README.md)
+[← Inicio](../../README.md) · [Sesión 2 →](../02-territorios-rurales/README.md)
 
 # Sesión 1. El tiempo y el tiempo demográfico
 
@@ -44,10 +44,10 @@
 
 ### Escenarios prácticos del curso
 
-- Pensiones (sesión 2)
-- Educación (sesión 3)
-- Sector agropecuario (sesión 4)
-- Urbanización, migración y desplazamiento forzado (sesión 5)
+- [La población y los territorios rurales](../02-territorios-rurales/README.md) (sesión 2)
+- [Seguridad social y reforma pensional](../03-pensiones/README.md) (sesión 3)
+- [Educación](../04-educacion/README.md) (sesión 4)
+- [Urbanización, migración y desplazamiento forzado](../05-urbanizacion-migracion/README.md) (sesión 5)
 
 ## Eje transversal: hogares y familias
 

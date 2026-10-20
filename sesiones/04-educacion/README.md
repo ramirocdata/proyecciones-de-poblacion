@@ -1,6 +1,6 @@
-[← Inicio](../../README.md) · [← Sesión 2](../02-pensiones/README.md) · [Sesión 4 →](../04-agropecuario/README.md)
+[← Inicio](../../README.md) · [← Sesión 3](../03-pensiones/README.md) · [Sesión 5 →](../05-urbanizacion-migracion/README.md)
 
-# Sesión 3. Dinámica poblacional y educación
+# Sesión 4. Dinámica poblacional y educación
 
 **Propósito:** Estimar el efecto de los cambios demográficos sobre la demanda educativa.
 
@@ -28,7 +28,7 @@
 
 Tamaño del hogar, clima educativo y número de hijos en edad escolar por hogar.
 
-Ver [eje transversal](../../eje-transversal/hogares-familias.md#s3).
+Ver [eje transversal](../../eje-transversal/hogares-familias.md#s4).
 
 ## Taller
 
@@ -36,7 +36,7 @@ Por definir.
 
 ## Lecturas
 
-Ver [bibliografía de la sesión 3](../../bibliografia.md#s3).
+Ver [bibliografía de la sesión 4](../../bibliografia.md#s4).
 
 ## Materiales
 
@@ -44,4 +44,4 @@ Ver [bibliografía de la sesión 3](../../bibliografia.md#s3).
 |---|---|
 | Presentación | _por agregar_ |
 | Guía del taller | _por agregar_ |
-| Datos | [fuentes](../../datos/README.md) |
+| Otras fuentes | [datos](../../datos/README.md) |
